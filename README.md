@@ -1,2 +1,2 @@
 # Common_coupons
-a txt list of the most common coupon codes.
+A txt list of the most common coupon codes.
